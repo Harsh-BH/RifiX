@@ -23,15 +23,7 @@ Sharkbucks is proudly applying for the following tracks at HackVerse 5.0:
      3. Verify the transaction details via the Aptos wallet interface.
    - Aptos ensures smooth and trustless payment flows between SMEs and investors.  
 
-2. **Plotch AI Track**:  
-   - Two intelligent NLP chatbots:
-     - **SME Chatbot**: Assists SMEs in navigating government schemes and exploring tailored loan opportunities.  
-     - **Investor Chatbot**: Helps investors discover potential investment opportunities, understand auction terms, and optimize their bidding strategy.  
-   - These bots were developed using Plotch AI’s robust NLP capabilities to enhance user engagement and simplify complex queries.  
 
-3. **Finance Track**:  
-   - Sharkbucks provides a finance-first solution aimed at improving SME funding options.  
-   - Competitive bidding on loan terms ensures better outcomes for both investors and SMEs, fostering financial inclusion.  
 
 ---
 
@@ -50,11 +42,11 @@ Sharkbucks is proudly applying for the following tracks at HackVerse 5.0:
 
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/SkySingh04/Sharkbucks_Hackverse
+   git clone https://github.com/Harsh-BH/SharkX
    ```
 2. **Install Dependencies**:  
    ```bash
-   cd sharkbucks
+   cd SharkX
    npm install
    ```
 3. **Run the Application**:  
