@@ -66,16 +66,6 @@ Sharkbucks is proudly applying for the following tracks at HackVerse 5.0:
    ```
 
 
-## **Contributors**
-
-Sharkbucks was created by **Team Codeplay** during Hackverse v5 2025.  
-
-- [Akash Singh](https://github.com/Akash-Singh04)  
-- [Dhruv Puri](https://github.com/slashexx)
-- [Shreyas Reddy](https://github.com/shreyasreddyb)
-For the full list of contributors, check [CONTRIBUTORS](https://github.com/Akash-Singh04/Sharkbucks/graphs/contributors).  
-
----
 
 ## **Contributing**
 
